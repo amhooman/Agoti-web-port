@@ -10,10 +10,10 @@ Has some issues with the background
 Credits:
 
 Agoti/entity mod(art assets, songs):
-[https://gamebanana.com/mods/284934]: https://gamebanana.com/mods/284934
+[https://gamebanana.com/mods/284934]
 
 Neo agoti recreation(custom songs):
-[https://gamebanana.com/mods/353353]: https://gamebanana.com/mods/353353
+[https://gamebanana.com/mods/353353]
 
 Me (edited charts to make them work, did code to make it work.):
 
