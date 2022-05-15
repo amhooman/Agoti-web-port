@@ -1,0 +1,69 @@
+---SECTION START---
+:musicloop:bgms/1
+:disableTypeSound:
+:switchSound:tabiText
+:enableTypeSound:
+:tabi-mad:this song is named screenplay
+:switchSound:bfText
+:bf-right:...
+:musicstop:
+:switchSound:tabiText
+:tabi-mad:enjoy!
+---SECTION END---
+
+---SECTION START---
+:musicloop:bgms/1
+:disableTypeSound:
+:switchSound:bfText
+:soundoverwrite:voices/tabi2/1
+:tabi-mad:this song is named screenplay
+:soundoverwritestop:
+:enableTypeSound:
+:bf-right:beep
+:disableTypeSound:
+:soundoverwritestop:
+:musicstop:
+:soundoverwritestop:
+---SECTION END---
+
+---SECTION START---
+:musicloop:bgms/1
+:disableTypeSound:
+:switchSound:tabiText
+:enableTypeSound:
+:tabi-mad:Гх… как ты не понимаешь, что она использует тебя лишь для своей собственной выгоды?!
+:tabi-mad:Использует так, как использовала... меня когда-то... Теперь посмотри на меня! Кто я теперь!? Летающий череп с невидимым телом? Я потерял всё!
+:switchSound:bfText
+:bf-right:Биб боб биб боп сбоп скд
+:switchSound:tabiText
+:tabi-mad:Слушай сюда, это твой последний шанс уйти. Я не остановлюсь, пока не доберусь до этой мелкой стервы! Проваливай сейчас-же, или узри последствия
+:switchSound:bfText
+:bf-right:...
+:musicstop:
+:switchSound:tabiText
+:tabi-mad:Хорошо.. Не хотел я причинять тебе вред, малыш, но ты мне не оставляешь выбора, раз так, то я.. УБЬЮ ВАС ОБОИХ!
+---SECTION END---
+
+---SECTION START---
+:musicloop:bgms/1
+:disableTypeSound:
+:switchSound:bfText
+:soundoverwrite:voices/tabi2/1
+:tabi-mad:Гх… как ты не понимаешь, что она использует тебя лишь для своей собственной выгоды?!
+:soundoverwrite:voices/tabi2/2
+:tabi-mad:Использует так, как использовала... меня когда-то... Теперь посмотри на меня! Кто я теперь!? Летающий череп с невидимым телом? Я потерял всё!
+:soundoverwritestop:
+:enableTypeSound:
+:bf-right:Биб боб биб боп сбоп скд
+:disableTypeSound:
+:soundoverwrite:voices/tabi2/3
+:tabi-mad:Слушай сюда, это твой последний шанс уйти. Я не остановлюсь, пока не доберусь до этой мелкой стервы! Проваливай сейчас-же, или узри последствия
+:soundoverwritestop:
+:enableTypeSound:
+:bf-right:...
+:disableTypeSound:
+:musicstop:
+:soundoverwrite:voices/tabi2/4
+:tabi-mad:Хорошо.. Не хотел я причинять тебе вред, малыш, но ты мне не оставляешь выбора, раз так, то я.. УБЬЮ ВАС ОБОИХ!
+:soundoverwritestop:
+---SECTION END---

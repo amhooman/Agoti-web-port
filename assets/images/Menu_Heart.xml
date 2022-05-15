@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HearBup0000" x="2916" y="0" width="717" height="649" frameX="-2" frameY="-13" frameWidth="721" frameHeight="662"/>
+</TextureAtlas>
