@@ -18,6 +18,9 @@ https://gamebanana.com/mods/353353
 Tabi mod(used as base):
 https://gamebanana.com/mods/286388
 
+Playable Agoti (agoti assets):
+https://gamebanana.com/mods/311988
+
 Me (edited charts to make them work, did code to make it work.)
 
 add this to your website if you want, but please leave credit if you want to use this
