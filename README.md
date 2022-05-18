@@ -21,6 +21,6 @@ https://gamebanana.com/mods/286388
 Playable Agoti (agoti assets):
 https://gamebanana.com/mods/311988
 
-Me (edited charts to make them fit better & added normal mode to fnf neo agoti songs, had to rewrite some of the code to make it work on web, etc.)
+amhooman(me) (edited charts to make them fit better & added normal mode to fnf neo agoti songs, had to rewrite some of the code to make it work on web, etc.)
 
-add this to your website if you want, but please leave credit if you want to use this
+add this to your website if you want, but please leave credit if you want to use this. https://github.com/amhooman (people who fork this, please leave this part)
